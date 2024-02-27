@@ -1,3 +1,5 @@
-# Churn Analysis Dashboard
+# Churn Analysis Report
 
-### Dashboard Link : https://app.powerbi.com/groups/64ca114d-4f1c-4f9a-9d25-e105388d6a2b/dashboards/26d53d6f-a690-4bd3-bc42-1908d7984582?experience=power-bi
+Snap of the report ,
+![Image](https://github.com/WorkNeerajThakur/Power-BI-Portfolio/assets/161486109/f5fbf42b-05c7-4837-848a-ae6e98ced0e3)
+
